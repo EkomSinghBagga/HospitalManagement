@@ -114,7 +114,7 @@ class lab
         System.out.println(fecility + "\t\t" + lab_cost);
     }
 }
-class fecility //Sorry Facility but do not change the name 
+class fecility 
 {
     String fec_name;
     void add_feci()
